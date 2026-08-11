@@ -45,7 +45,7 @@ Error generating stack: `+e.message+`
           lg:w-120\r
 \r
           grid place-items-center\r
-        `,children:(0,I.jsx)(`div`,{className:`grid h-full w-full place-items-center rounded-full`,children:(0,I.jsx)(`img`,{ref:e,src:`/pfp.png`,alt:`PFP`,className:`\r
+        `,children:(0,I.jsx)(`div`,{className:`grid h-full w-full place-items-center rounded-full`,children:(0,I.jsx)(`img`,{ref:e,src:`pfp.png`,alt:`PFP`,className:`\r
               block\r
               h-full\r
               w-full\r
